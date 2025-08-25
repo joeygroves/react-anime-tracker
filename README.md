@@ -37,7 +37,7 @@ Display top airing anime or upcoming episodes from an API.
 
 
 ## Step-by-Step Workflow:
-1. Set up React project (Create React App or Vite)
+1. Set up React project (Create React App or Vite) ✅
 2. Fetch anime data from Jikan API in App.js using useEffect
 3. Map over data to display AnimeCard components
 4. Style minimally with Flexbox (cards in a grid)
